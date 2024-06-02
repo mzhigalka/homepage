@@ -166,6 +166,7 @@ body {
 .skills__text {
   color: var(--secondary-text-color);
   text-align: justify;
+
 }
 
 .experiences {
